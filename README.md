@@ -28,6 +28,7 @@
 у 2023 р. HHI = 2005, а 181 замовник мав показник HHI > 2500, що свідчить про високий рівень концентрації.
 
 <img width="752" height="252" alt="image" src="https://github.com/user-attachments/assets/5f8d0ea4-0dc8-4f2b-940c-64a4d61ab32b" />
+
 ## 1.2 Open Contracting Partnership — Red Flags у закупівлях/
  <a href="https://www.open-contracting.org/resources/red-flags/">Open Contracting Partnership</a>
 
@@ -38,12 +39,13 @@
 -аномальні строки контрактів.
 <img width="260" height="357" alt="image" src="https://github.com/user-attachments/assets/3db68bf2-a939-4037-8062-0d75be2e390b" />
 <img width="259" height="308" alt="image" src="https://github.com/user-attachments/assets/b484aede-d5f2-44bb-919a-b62b7157154e" />
+
 ### Львівська міська рада вже відповідає цим принципам — дані Prozorro відкриті, а аналітика доступна через BI модуль.
 <img width="546" height="363" alt="image" src="https://github.com/user-attachments/assets/5f7efc25-c068-44bb-ace0-c99525aa5ee3" />
 
 # 2. Ризикові індикатори у закупівлях Львова
 ## 2.1 Висока концентрація ринку
-HHI > 2500 у 181 замовника — це міжнародний поріг монополізації (за стандартами OECD та DOJ USA).
+### HHI > 2500 у 181 замовника — це міжнародний поріг монополізації (за стандартами OECD та DOJ USA).
 Найвищі показники спостерігаються у сферах енергетики, транспорту та комунальних послуг.
 <img width="734" height="330" alt="image" src="https://github.com/user-attachments/assets/a5a4e403-9ef3-43ec-925b-60ad9e10ed67" />
 
