@@ -60,6 +60,7 @@
 Це відповідає міжнародному “red flag” — “repeated winners”.
 
 <img width="746" height="293" alt="image" src="https://github.com/user-attachments/assets/21180e06-963e-45e5-b6f8-9ca36dd5299e" />
+
 # 3. Порівняння з міжнародними практиками
 <img width="397" height="194" alt="image" src="https://github.com/user-attachments/assets/0d9dfdae-f8b8-4199-9898-4606fb5fe1e7" />
 <img width="750" height="291" alt="image" src="https://github.com/user-attachments/assets/afa0e158-d378-4315-a9e0-b6eaaae7dcbe" />
