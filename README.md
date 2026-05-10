@@ -12,5 +12,16 @@
 ## Вступ
 ### Система Prozorro стала символом відкритості державних закупівель в Україні.
 Аналіз закупівель Львівської міської ради за 2018–2025 рр. показує, що навіть на локальному рівні можна оцінити ризики концентрації, неконкурентності та ефективності за міжнародними стандартами.
-<img width="511" height="48" alt="image" src="https://github.com/user-attachments/assets/dcfab112-628a-4004-b73f-a4508d08b2ac" />
+<img width="823" height="75" alt="image" src="https://github.com/user-attachments/assets/5d9fc72c-d84e-4043-b2d9-354af5f41c38" />
+
+## 1. Міжнародні стандарти антикорупційного моніторингу
+### 1.1 Transparency International — Індекс сприйняття корупції (CPI)
+ <a href=" https://www.transparency.org/en/cpi">Transparency International</a>
+ Transparency International визначає корупцію як системну проблему, що проявляється через:
+низьку конкуренцію в тендерах,
+повторюваних постачальників,
+відсутність економії,
+концентрацію контрактів у вузькому колі учасників.
+<img width="947" height="413" alt="image" src="https://github.com/user-attachments/assets/4f1c5cf9-ca3c-4456-a4e4-0ddfcc416bff" />
+
 
